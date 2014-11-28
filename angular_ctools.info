@@ -1,0 +1,6 @@
+name = AngularJS Ctools
+description = Provides an integration between AngularJS and Ctools (Panels).
+package = AngularJS
+core = 7.x
+
+dependencies[] = angular_api
